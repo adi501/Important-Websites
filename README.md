@@ -7,3 +7,6 @@ https://thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core
 
 # Json:
 https://thecodebuzz.com/csharp-class-json-schema/
+
+# SonarQube:
+https://thecodebuzz.com/continuous-code-quality-of-using-sonar/
