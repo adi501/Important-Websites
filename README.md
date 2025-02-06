@@ -8,7 +8,7 @@ https://thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core
 # Json:
 https://thecodebuzz.com/csharp-class-json-schema/
 
-# # Design Patterns
+##Design Patterns
 # Repository Design Pattern
 https://codewithmukesh.com/blog/repository-pattern-in-aspnet-core/
 https://code-maze.com/net-core-web-development-part4/
