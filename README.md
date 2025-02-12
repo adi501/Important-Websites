@@ -4,6 +4,9 @@ https://thecodebuzz.com/read-get-configuration-value-from-appsetting-json-in-asp
 
 https://thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core/#google_vignette
 
+**Dispose Vs Finalize**
+
+https://dev.to/bytehide/dispose-or-finalize-in-c-discover-which-to-use-150h
 
 # Json:
 https://thecodebuzz.com/csharp-class-json-schema/
