@@ -12,6 +12,8 @@ https://dev.to/bytehide/dispose-or-finalize-in-c-discover-which-to-use-150h
 
 https://dotnettutorials.net/lesson/response-caching-in-asp-net-core-web-api/
 
+https://www.csharp.com/article/what-is-response-caching-in-asp-net-core2/
+
 # Json:
 https://thecodebuzz.com/csharp-class-json-schema/
 
