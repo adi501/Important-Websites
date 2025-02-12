@@ -8,6 +8,10 @@ https://thecodebuzz.com/configure-dbcontext-entity-framework-efcore-asp-net-core
 
 https://dev.to/bytehide/dispose-or-finalize-in-c-discover-which-to-use-150h
 
+**Response Caching**
+
+https://dotnettutorials.net/lesson/response-caching-in-asp-net-core-web-api/
+
 # Json:
 https://thecodebuzz.com/csharp-class-json-schema/
 
